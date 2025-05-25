@@ -26,10 +26,10 @@ function App() {
      content-between bg-gray-400'>
       <div className='w-full block'>
         <Header />
-        {/* <main>
+        <main>
         {<Outlet />}
         </main>
-        <Footer /> */}
+        <Footer />
       </div>
     </div>
   ) : null
